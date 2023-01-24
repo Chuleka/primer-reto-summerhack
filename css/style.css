@@ -1,4 +1,24 @@
-#circulo {
+body {
+    width: 100%;
+    text-align: center;
+}
+
+img {
+    width: 30px;
+    height: 30px;
+    margin:10px
+}
+#yo{
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
-    max-width: 50%;
+}
+#circulo {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+h4 {
+    display: flex;
+    justify-content: center;
 }
